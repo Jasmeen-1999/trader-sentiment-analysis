@@ -3,18 +3,18 @@
 ## Objective
 Analyze how Bitcoin market sentiment (Fear vs Greed) impacts trader performance.
 
-## Key Steps
-- Data cleaning and preprocessing
-- Time-series alignment using `merge_asof`
-- Behavioral analysis of traders
-- Segmentation into retail vs top traders
-- Consistency and risk analysis
+##  Methodology
+- Cleaned and standardized datasets  
+- Corrected timestamp inconsistencies and aligned time formats  
+- Performed time-series alignment using `merge_asof`  
+- Segmented traders into retail vs top performers  
+- Conducted statistical and behavioral analysis  
 
-## Key Insights
-- Higher profitability observed during Greed phases
-- Retail traders underperform compared to top traders
-- Risk-taking increases during Fear
-- Consistent traders outperform volatile ones
+## Key Findings
+- Higher profitability observed during Greed phases  
+- Retail traders underperform compared to top traders  
+- Risk-taking behavior varies with sentiment  
+- Consistent traders outperform volatile traders  
 
 ## Strategy Recommendations
 - Avoid overtrading during Greed
